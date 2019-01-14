@@ -451,19 +451,19 @@ a:hover, a:focus, a:active {
     .modal-content {
         width: 100%;
     }
-    .parallax { background-image: url(../img/Artboard3xvert.png) !important; background-attachment: scroll; background-size: cover;}
+    .parallax { background-image: url(../img/paratestvert.png) !important; background-attachment: scroll; background-size: cover;}
 
 
     /*  .parallax {display:none;} .parallax { background-image: url(../img/mediaparallax.png) !important; background-attachment: scroll; background-size: contain;}
     */
     #parallax2 {
-      background-image: url(../img/artboard4vert.png) !important;
+      background-image: url(../img/paratestvert.png) !important;
     }
     #parallax3 {
-      background-image: url(../img/artboard6vert.png) !important;
+      background-image: url(../img/paratestvert.png) !important;
     }
     #parallax4 {
-      background-image: url(../img/artboard5vert.png) !important;
+      background-image: url(../img/paratestvert.png) !important;
     }
 
     #pagetitle {
