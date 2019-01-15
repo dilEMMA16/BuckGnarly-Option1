@@ -211,14 +211,14 @@ section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   /*max-width: 75rem; DEFAULT WAY*/
-  max-width:calc(100vw - 270px);
+  max-width:calc(100vw - 250px);
 }
 
 section.resume-section2 {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   /*max-width: 75rem; DEFAULT WAY*/
-  max-width:calc(100vw - 270px);
+  max-width:calc(100vw - 250px);
 }
 
 .parallax {
@@ -233,7 +233,7 @@ section.resume-section2 {
            padding: 0;
            margin: 0;
 
-           max-width: calc(100vw - 270px);
+           max-width: calc(100vw - 250px);
            height: 45vh;
         }
 
@@ -368,7 +368,7 @@ section.resume-section .resume-item .resume-date section.resume-section2  {
   section.resume-section {
     padding-top: 3rem !important;
     padding-bottom: 3rem !important;
-    max-width:calc(100vw - 270px) !important;
+    max-width:calc(100vw - 250px) !important;
     padding: 5rem !important;
   }
 
@@ -463,7 +463,7 @@ a:hover, a:focus, a:active {
       background-image: url(../img/paratestvert.png) !important;
     }
     #parallax4 {
-      background-image: url(../img/paratestvert.png) !important;
+      background-image: url(../img/paratestvert.png)  !important;
     }
 
     #pagetitle {
